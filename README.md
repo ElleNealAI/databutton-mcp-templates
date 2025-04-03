@@ -9,7 +9,7 @@ Instructions
 3. You agent will now be able to use this tool.
 
 ### API Templates
-1. [Read and Store Memories](https://github.com/ElleNealAI/databutton-mcp-templates/blob/main/API%20Templates/read_and_store_memories.py): Stores key insights about the user to improve AI personalisation such as user preferences, habits or goals. Uses Databutton's built in storage to save data automatically to your application.
+1. [Read and Store Memories](https://github.com/ElleNealAI/databutton-mcp-templates/blob/main/API%20Templates/read_and_store_memories.py): Stores key insights about the user to improve AI personalisation such as user preferences, habits or goals. Uses Databutton's built in storage to save data automatically to your application. **Tip**: include the following in the Instructions underneath the Chat Inteface "Read the memories of the user before responding or using any tools."
 2. [Search the Web using DuckDuckGo](https://github.com/ElleNealAI/databutton-mcp-templates/blob/main/API%20Templates/duckduckgo_search.py): a free websearch tool no API key required. Give your AI Agent the ability to search the internet.
 
 
