@@ -4,9 +4,10 @@ A collection of APIs that can be added to your Databutton hosted MCP Server. Ena
 
 ### Instructions
 
-1. Create a new API in your template application
-2. Copy and paste the selected code from the API templates below
-3. You agent will now be able to use this tool.
+1. Create your Databutton MCP Playghround using this template [Databutton Model Context Protocol (MCP) Template](https://databutton.com/fork?pt=pt-3MBVfjTwFubYu3XD)
+2. Create a new API in your template application
+3. Copy and paste the selected code from the API templates below
+4. You agent will now be able to use this tool.
 
 ### API Templates
 
