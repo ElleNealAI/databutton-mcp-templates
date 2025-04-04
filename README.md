@@ -12,7 +12,7 @@ Instructions
 1. [Read and Store Memories](https://github.com/ElleNealAI/databutton-mcp-templates/blob/main/API%20Templates/read_and_store_memories.py): Stores key insights about the user to improve AI personalisation such as user preferences, habits or goals. Uses Databutton's built in storage to save data automatically to your application. **Tip**: include the following in the Instructions underneath the Chat Inteface "Read the memories of the user before responding or using any tools."
 2. [Search the Web using DuckDuckGo](https://github.com/ElleNealAI/databutton-mcp-templates/blob/main/API%20Templates/duckduckgo_search.py): a free websearch tool no API key required. Give your AI Agent the ability to search the internet.
 3. [Knowledge Base API](https://github.com/ElleNealAI/databutton-mcp-templates/blob/main/API%20Templates/knowledge_base.py): Enables your AI Agent to store, search, and retrieve domain-specific information without external dependencies. Great for building persistent knowledge about topics, facts, or frequently asked questions. Uses Databutton's built-in storage for seamless integration. **Tip**: Add the instruction "Check the knowledge base for relevant information before responding to questions on familiar topics."
-
+4. [URL Content Extractor](https://github.com/ElleNealAI/databutton-mcp-templates/blob/main/API%20Templates/url_content_extractor.py): Extracts and analyzes content from web pages, filtering out ads and navigation to focus on main text, titles, and descriptions. Perfect companion to web search for deeper analysis of specific pages. **Tip**: Use after DuckDuckGo search to get comprehensive information from the most relevant results.
 
 
 # Creating an Effective API Task for an AI Agent in Databutton
